@@ -1,1 +1,9 @@
 # Spring-reactive-r2dbc
+### Reference
+* https://github.com/mirromutth/r2dbc-mysql
+* https://wky.kr/66
+* https://gompangs.tistory.com/entry/Spring-R2DBC-MySQL
+* https://medium.com/@dassum/building-a-reactive-restful-web-service-using-spring-boot-and-postgres-c8e157dbc81d
+* https://m.blog.naver.com/PostView.nhn?blogId=dg110&logNo=221347127351&proxyReferer=https:%2F%2Fwww.google.com%2F
+* https://www.popit.kr/spring-webflux%EC%99%80-kotlin%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-todo-%EC%84%9C%EB%B9%84%EC%8A%A4-1%ED%8E%B8/
+* https://medium.com/w-logs/jdbc-for-spring-webflux-spring-data-r2dbc-99690208cfeb
